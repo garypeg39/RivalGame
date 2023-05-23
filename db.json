@@ -1,0 +1,12 @@
+{
+    "rivaGame": {
+        "code": "200",
+        "time": "2023-5-23",
+        "message": "success",
+        "gameBody": {
+            "isL": "",
+            "code": "1",
+            "codeName": "1.0.0"
+        }
+    }
+}
